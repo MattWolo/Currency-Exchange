@@ -1,1 +1,1 @@
-One of my oldest educational projects. The application, implemented in C++, allows for converting any currency to Polish złoty or vice versa. The project uses a bank API, and the exchange rates are updated to this day whenever the application is launched.
+One of my oldest educational projects. The application, implemented in C++, allows for converting any currency to Polish złoty or vice versa. The project uses a currency exchange cantor API, and the exchange rates are updated to this day whenever the application is launched.
